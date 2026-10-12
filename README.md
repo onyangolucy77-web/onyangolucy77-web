@@ -2,8 +2,7 @@
 
 **Data Analyst | Excel · Power BI · Tableau · SQL · Python**
 
-Final-year Statistics and Programming student with hands-on experience cleaning, validating, and visualizing real-world datasets. I like taking messy, inconsistent data and turning it into a dashboard that surfaces one clear, actionable finding.
-
+Statistics and Programming graduate with hands-on experience cleaning, validating, and visualizing real-world datasets. I like taking messy, inconsistent data and turning it into a dashboard that surfaces one clear, actionable finding.
 📍 Nairobi, Kenya
 🔗 [LinkedIn](https://www.linkedin.com/in/lucy-onyango-b9b7342ab)
 
